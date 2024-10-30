@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_addon_int_ui_data : ohud_l.scania.s_2016.set_lglass
+# accessory_addon_data : ohud_l.scania.s_2016.set_lglass
+{
+	name: "Optical HUD Large"
+	price: 1000
+	unlock: 0
+	icon: "optical_hud"
+	part_type: aftermarket
+
+	interior_model: "/vehicle/truck/upgrade/interior_set/scania_2016/optical_hud_large.pmd"
+	interior_model_uk: "/vehicle/truck/upgrade/interior_set/scania_2016/optical_hud_large.pmd"
+
+	hide_in: 0xFFFE7FF8
+	
+	ui_path: "/ui/dashboard/optical_hud.sii"
+	ui_drawable_texture_path: "/vehicle/truck/share/optical_hud.tobj"
+	ui_drawable_size: (512, 512)
+}
+}

@@ -1,0 +1,26 @@
+﻿# Optical-HUD
+
+The Optical-HUD mod introduces a virtual Head-Up Display (HUD) designed with a screen size of 2000 x 1250 mm (92.9 inches) and a virtual image distance (VID) of 10 meters. This setup is particularly beneficial for VR players as it eliminates the need to frequently refocus their eyes, reducing eye fatigue and enhancing comfort during extended gameplay.
+
+## Supported Vehicle
+
+- Scania S 2016 (EU)
+
+## Features
+
+- Navigation display
+- Current speed indicator
+- Cruise control setting display
+- Speed limit alert
+- Time remaining until next rest stop
+- Estimated time remaining until arrival
+
+## How to use
+
+To configure the Optical HUD for your truck:
+
+- Navigate to Accessories configuration
+- Select Hookup point for Windshield Corner
+- Choose Optical HUD to install
+
+Note: The default seat position might be too far back, so you may need to adjust the seat forward to see the full HUD content.
